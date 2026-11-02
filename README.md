@@ -56,7 +56,7 @@ This project helps users:
 
 ## Author
 
-**AG**, Computer Science student at CU Boulder
+**Yash Gupta**, Computer Science student at CU Boulder
 
 ## Links
 
